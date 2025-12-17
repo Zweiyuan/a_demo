@@ -23,9 +23,11 @@ The following pictures are the demos.
 
 ## 2. Second Part
 
-![G3](https://github.com/Shaohan-Xu/a_demo/blob/main/G3.png)
 
 
+<p align="center">
+  <img src="https://github.com/Shaohan-Xu/a_demo/blob/main/G3.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 
 
