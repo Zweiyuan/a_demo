@@ -7,7 +7,7 @@ The following pictures are the demos.
 
 ## 1.First part
 
-![G1](https://github.com/Shaohan-Xu/a_demo/blob/main/G1.png #pic_center)
+![G1](https://github.com/Shaohan-Xu/a_demo/blob/main/G1.png)
 <center>This is the caption of the Graph. </center>
 
 
